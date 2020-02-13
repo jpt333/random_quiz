@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">jtphan_A1</string>
+    <string name="question1">What fruit is yellow on the outside and white in the inside?</string>
+    <string name="question_2">Is Colorado School of Mines hard?</string>
+    <string name="question_3">What is the name of the planet you are on?</string>
+    <string name="correct">Nice job! It is correct!</string>
+    <string name="incorrect">Incorrect!</string>
+
+</resources>
